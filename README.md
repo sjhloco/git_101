@@ -1,2 +1,3 @@
 # git_101
-How to use GIT
+
+Notes and howto on basics of git for a simpleton. 
